@@ -1,8 +1,7 @@
 # frozen_string_literal: true
 
-require_relative 'app/image_handler.rb'
+require_relative 'app/image_handler'
 require_relative 'app/layer_handler'
-require 'time'
 
 class Tile
   DEFAULT_SIZE = 256
