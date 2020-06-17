@@ -2,6 +2,7 @@
 
 require_relative 'image_handler'
 require_relative 'layer_handler'
+require 'time'
 
 class Run
   DEFAULT_SIZE = 256
